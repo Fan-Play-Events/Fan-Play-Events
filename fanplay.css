@@ -127,6 +127,15 @@ section#feedback {
     color: black;
 }
 
+#register a:hover{
+    color: purple;
+
+} 
+#register a{
+    text-decoration: none;
+    color: black;
+}
+
 #feedback a:hover{
     color: purple;
 
